@@ -1,0 +1,42 @@
+.frmbg{
+	background-color:LightGray;
+	padding: 10px;
+}
+
+.lgn{
+	background-color: darkblue;
+	padding: 10px;
+	color:white;
+}
+
+.txtbox{
+	width:425px;
+}
+
+.bttn{
+	float: right;
+	background-color: darkblue; 
+	border-width: 1px; 
+	border-color:orange;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.bttn1{
+	float: right;
+	border-width: 2px; 
+	border-color:darkblue;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.lnk{
+	font-size: 10px;
+	text-decoration: underline;
+	float: right;
+	color:white;
+}
